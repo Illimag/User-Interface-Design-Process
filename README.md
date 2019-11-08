@@ -44,7 +44,9 @@ An important step of this process is forward thinking of the development of the 
 
 Because although a visual interpretation of a prototype can be accomplished using design tools, certain functionalities can not be approached without having a certain degree of technical skill to implement said functionality into a working prototype.
 
-    For example when designing for a conceptual Domino's Pizza Application for the Visually Impaired from the Personas Limitation Spectrum, without being able to implement a hidden HTML element that can be read by Samsung's Voice Assistant it may not have been seen as a feasible possibility. As well as if not understanding the underlining technology stack that the application is built with, one would not be able to see how to design the interaction.
+    For example when designing for a conceptual Domino's Pizza Application for the Visually Impaired from the Personas Limitation Spectrum, without being able to implement a hidden HTML element that can be read by Samsung's Voice Assistant it may not have been seen as a feasible possibility. 
+    
+    As well as if not understanding the underlining technology stack that the application is built with, one would not be able to see how to design the interaction.
 
     https://github.com/jaemnkm/dominos-app-visually-impaired
 
@@ -78,7 +80,11 @@ As for the cases where the actual digital product is built with technology that 
 
 Because a developed prototype is the closest thing to the actual product, when doing user testing it is more effective than a prototype built with paper and/or static image files. 
 
-    For example a Samsung Smartwatch Application Prototype can be built using HTML/CSS/JavaScipt Compiled with Tizen Studio. Then the prototype can be added to the Samsung App Store to be downloaded onto a Samsung Smartwatch to be used for user testing. This is vastly superior than user testing with paper prototypes of a Samsung Smartwatch Application.
+    For example a Samsung Smartwatch Application Prototype can be built using HTML/CSS/JavaScipt Compiled with Tizen Studio. 
+    
+    Then the prototype can be added to the Samsung App Store to be downloaded onto a Samsung Smartwatch to be used for user testing. 
+    
+    This is vastly superior than user testing with paper prototypes of a Samsung Smartwatch Application.
 
 ### Tools
 
