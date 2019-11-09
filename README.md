@@ -32,25 +32,25 @@ The interface is accessed via the following methods:
 
 ## User Interface Design Methodology
 
-Information architecture and research is an important first step in designing an User Interface. 
+Information architecture and research is an important step in designing an User Interface. 
 
-Then the initial conceptualization based on a hypothesis driven design process, with user testing for the goal of designing an interface that is intuitive and user friendly. 
+Then the initial conceptualization based on a hypothesis driven design process which stems from identifying problems, then solving said problems, as well as with user testing towards the goal of designing an interface that is intuitive and user friendly. 
 
 Several levels of fidelity of increasing complexity to move the designs towards wireframes and finalized mockups. 
 
-For the prototype starting with conceptualizing the use case scenarios and creating storyboards, then moving into sketches and paper prototypes. 
+For the prototyping phase starting with conceptualizing the use case scenarios and creating storyboards, then moving into sketches and paper prototypes. 
 
 An important step of this process is forward thinking of the development of the prototype. 
 
-Because although a visual interpretation of a prototype can be accomplished using design tools, certain functionalities can not be approached without having a certain degree of technical skill to implement said functionality into a working prototype.
+Although a visual interpretation of a prototype can be accomplished using design tools, certain functionalities can not be approached without having a certain degree of technical skill to implement said functionality into a working prototype.
 
-    For example when designing for a conceptual Domino's Pizza Application for the Visually Impaired from the Personas Limitation Spectrum, without being able to implement a hidden HTML element that can be read by Samsung's Voice Assistant it may not have been seen as a feasible possibility. 
+    For example when designing for a conceptual Domino's Pizza Application for the Visually Impaired from the Personas Limitation Spectrum, without being able to implement a hidden HTML element that can be read by Samsung's Voice Assistant it may not have been seen as a possibility. 
     
     As well as if not understanding the underlining technology stack that the application is built with, one would not be able to see how to design the interaction.
 
     https://github.com/jaemnkm/dominos-app-visually-impaired
 
-As so for this case of an User Interface Design Process being able to develop the prototype is an essential part of the design process. 
+As so for this case of User Interface Design Process being able to develop the prototype is an essential part of the design process. 
 
 ### Tools
 
@@ -62,15 +62,19 @@ As so for this case of an User Interface Design Process being able to develop th
 
 - Sketch
 
+- Figma
+
 ## Prototype Development Methodology
 
-An User Interface prototype built in HTML/CSS/JavaScript will typically fit the specifications detailed in this particular case of User Interface Design and Development Process. 
+An User Interface prototype built in HTML/CSS/JavaScript will typically fit the specifications detailed in this particular case of User Interface Design Process. 
 
 Certain functionality can be implementable only by using a detailed approach to the Document Object Model. 
 
 In other cases by staying aware of development patterns, frameworks, libraries, and limitations of web platforms will shape the designing phase of the User Interface before it reaches the development phase. 
 
-Although this may put a strain to the creative extent that one may take the design of the User Interface, allowing the form to follow the function of the User Interface creates designs that are able to be realistically implemented. 
+Although this may put a strain to the creative extent that one may take the design of the User Interface, allowing the form to ever follows function of the User Interface creates designs that are able to be realistically implemented. 
+
+    https://en.wikipedia.org/wiki/Form_follows_function
 
 Further down the process of the digital product this helps the developers and the engineers create the actual product, even if it means discarding the source code of the User Interface prototype. 
 
