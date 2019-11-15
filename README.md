@@ -18,6 +18,8 @@ Mainly this centers around the following devices:
 
 - Personal Desktop Computers
 
+- Enterprise Machines
+
 - Monitors of Various Dimensions
 
 - Wearable Smartwatch Computers
