@@ -1,7 +1,10 @@
 # User Interface Design Process
 
-This particular case of User Interface Design Process is focused on the specifications:
+## Prototype Development
 
+<<<<<<< HEAD
+## User Interface Design
+=======
 - Web, Digital and Computerized Systems
 
 - Interaction Design, particularly to increase usability across the Persona Spectrum and increase accessibility for the Persona Limitation Spectrum 
@@ -119,3 +122,4 @@ Because a developed prototype is the closest thing to the actual product, when d
 ## Notes
 
 A balance of what is technically possible and what is best for the user must be reached for this process to be effective.
+>>>>>>> 9e96daa1e43e1b855b5b8748ff47bccdbbcf15bb
